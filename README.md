@@ -1,4 +1,4 @@
-# Midterm/Final Project Documentation: Douggle
+# Final Project Documentation: Douggle
 
 ## Project Title
 **Development of a Python-Based Information Retrieval System with Preprocessing, TF-IDF, and an Interactive UI [Douggle]**
