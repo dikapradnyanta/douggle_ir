@@ -1,0 +1,1 @@
+Reinforcement Learning adalah metode pelatihan model yang didasarkan pada sistem pemberian penghargaan dan hukuman.

@@ -1,0 +1,1 @@
+Supervised Learning membutuhkan dataset yang sudah berlabel agar model dapat memprediksi output dengan akurat.

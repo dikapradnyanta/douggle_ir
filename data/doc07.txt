@@ -1,0 +1,1 @@
+Algoritma AI dapat memprediksi risiko penyakit jantung pasien berdasarkan data gaya hidup dan riwayat medis.

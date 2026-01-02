@@ -1,0 +1,1 @@
+Mobil otonom mengandalkan sensor Lidar dan visi komputer untuk bernavigasi di jalan raya tanpa bantuan pengemudi.

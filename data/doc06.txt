@@ -1,0 +1,1 @@
+Kecerdasan Buatan membantu dokter mendiagnosis penyakit melalui analisis citra medis seperti sinar-X dan MRI.

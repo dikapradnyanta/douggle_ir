@@ -1,0 +1,1 @@
+Machine Learning adalah cabang AI yang fokus pada penggunaan data dan algoritma untuk meniru cara manusia belajar.

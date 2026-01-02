@@ -1,0 +1,1 @@
+Transparansi algoritma atau "Explainable AI" sangat penting agar keputusan yang dibuat mesin dapat dimengerti manusia.

@@ -1,0 +1,1 @@
+Unsupervised Learning bekerja dengan mencari pola tersembunyi dalam data yang tidak memiliki label sebelumnya.

@@ -12,7 +12,6 @@ class DatasetManager:
     def load_documents(self):
         """
         Memuat seluruh dokumen dari folder dataset.
-        Output: Dictionary dengan nama file sebagai ID dan isi teks sebagai value.
         """
         if not os.path.exists(self.folder_path):
             return f"Error: Folder '{self.folder_path}' tidak ditemukan."
@@ -21,8 +20,13 @@ class DatasetManager:
             if filename.endswith(".txt"):
                 file_path = os.path.join(self.folder_path, filename)
                 try:
+                    # Menggunakan encoding utf-8 untuk membaca file
                     with open(file_path, 'r', encoding='utf-8') as file:
-                        self.documents[filename] = file.read()
+                        content = file.read().strip() # Menghapus spasi kosong di awal/akhir
+                        if content:
+                            self.documents[filename] = content
+                        else:
+                            print(f"Peringatan: File {filename} kosong!")
                 except Exception as e:
                     print(f"Gagal membaca {filename}: {e}")
         
@@ -50,11 +54,18 @@ class DatasetManager:
 
 # Demonstrasi penggunaan mandiri untuk pengecekan kualitas [cite: 37]
 if __name__ == "__main__":
+    # 1. Inisialisasi manager (Pastikan nama folder sesuai, yaitu "data")
     manager = DatasetManager(folder_path="data")
-    raw_data = manager.load_documents()
+    
+    # 2. EKSEKUSI PEMBACAAN FILE (PENTING: Harus dipanggil agar data masuk ke memori)
+    manager.load_documents()
     
     print("--- Douggle: Dataset Metadata ---")
+    
+    # 3. Hitung dan ambil statistik
     stats = manager.get_metadata()
+    
+    # 4. Cetak hasil
     if isinstance(stats, dict):
         for key, value in stats.items():
             print(f"{key}: {value}")

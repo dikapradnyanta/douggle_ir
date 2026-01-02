@@ -1,0 +1,1 @@
+Masalah etika utama dalam AI adalah bias algoritma yang dapat merugikan kelompok masyarakat tertentu secara tidak adil.
