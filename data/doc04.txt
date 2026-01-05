@@ -1,0 +1,3 @@
+Computer Vision adalah teknologi yang memungkinkan komputer untuk memahami dan 
+menginterpretasi informasi visual dari dunia. Aplikasi computer vision mencakup 
+face recognition, object detection, dan autonomous vehicles.

@@ -1,0 +1,3 @@
+Deep Learning merupakan subset dari machine learning yang menggunakan neural network 
+dengan banyak layer. Deep learning sangat efektif untuk pemrosesan gambar, 
+pengenalan suara, dan natural language processing.

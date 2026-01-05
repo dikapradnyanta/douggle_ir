@@ -1,0 +1,3 @@
+Version Control Systems seperti Git memungkinkan developers untuk tracking changes 
+dalam source code. Git memfasilitasi collaboration dengan features seperti branching, 
+merging, dan pull requests untuk team development.

@@ -1,0 +1,3 @@
+Software Engineering adalah pendekatan sistematis untuk development, operation, 
+dan maintenance software. Software engineers menggunakan programming languages, 
+frameworks, dan best practices untuk membangun aplikasi berkualitas.

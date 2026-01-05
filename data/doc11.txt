@@ -1,0 +1,3 @@
+Cybersecurity adalah praktik melindungi sistem komputer dari serangan digital. 
+Cybersecurity mencakup network security, application security, dan data protection 
+untuk mencegah unauthorized access dan data breaches.

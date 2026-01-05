@@ -1,0 +1,3 @@
+Data Science adalah bidang interdisipliner yang menggunakan metode ilmiah untuk 
+mengekstrak pengetahuan dari data. Data scientist menggunakan statistik, 
+machine learning, dan programming untuk menganalisis data.

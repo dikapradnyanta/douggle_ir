@@ -1,0 +1,3 @@
+Machine Learning adalah cabang dari artificial intelligence yang memungkinkan komputer 
+untuk belajar dari data tanpa diprogram secara eksplisit. Algoritma machine learning 
+dapat mengenali pola dalam data dan membuat prediksi berdasarkan pola tersebut.

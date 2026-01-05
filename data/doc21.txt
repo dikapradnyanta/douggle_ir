@@ -1,0 +1,3 @@
+Python adalah programming language high-level yang populer untuk data science dan 
+machine learning. Python memiliki syntax yang mudah dibaca dan library ekstensif 
+seperti NumPy, Pandas, dan Scikit-learn.

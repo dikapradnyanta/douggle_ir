@@ -1,0 +1,3 @@
+JavaScript adalah programming language untuk web development. JavaScript memungkinkan 
+interaktivitas pada website dengan manipulation DOM, event handling, dan asynchronous 
+programming menggunakan frameworks seperti React dan Vue.

@@ -1,0 +1,3 @@
+Database Management Systems (DBMS) adalah software untuk menyimpan dan mengelola data. 
+DBMS memungkinkan users untuk create, read, update, dan delete data dengan efisien. 
+Contoh DBMS termasuk MySQL, PostgreSQL, dan MongoDB.

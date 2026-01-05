@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) adalah bidang yang menggabungkan linguistik dan 
+machine learning untuk memahami bahasa manusia. Aplikasi NLP termasuk chatbot, 
+sentiment analysis, dan machine translation.

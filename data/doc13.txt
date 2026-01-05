@@ -1,0 +1,3 @@
+Robotics adalah bidang yang menggabungkan mechanical engineering dengan computer science 
+untuk membuat robot. Robot dapat melakukan tugas otomatis di manufacturing, 
+healthcare, dan exploration dengan presisi tinggi.

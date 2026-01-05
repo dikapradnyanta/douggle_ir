@@ -1,0 +1,3 @@
+API (Application Programming Interface) adalah set of rules untuk communication 
+antara software applications. RESTful APIs menggunakan HTTP methods untuk enable 
+data exchange dan integration antar berbagai services.

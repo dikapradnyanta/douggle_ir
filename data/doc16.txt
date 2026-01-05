@@ -1,0 +1,3 @@
+Web Development adalah proses membangun website dan aplikasi web. Web developers 
+menggunakan HTML, CSS, JavaScript, dan frameworks untuk membuat user interfaces 
+yang interaktif dan responsive.

@@ -1,0 +1,3 @@
+DevOps adalah kombinasi dari development dan operations untuk meningkatkan software 
+delivery. DevOps menggunakan automation, continuous integration, dan continuous 
+deployment untuk mempercepat development cycle.

@@ -1,0 +1,3 @@
+Microservices Architecture adalah pendekatan development dimana aplikasi dibagi menjadi 
+small independent services. Setiap microservice dapat di-deploy dan di-scale secara 
+terpisah, meningkatkan flexibility dan maintainability.

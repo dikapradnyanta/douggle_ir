@@ -1,0 +1,3 @@
+Blockchain adalah distributed ledger technology yang menyimpan data dalam blocks 
+yang terhubung. Blockchain digunakan untuk cryptocurrency, smart contracts, 
+dan supply chain management dengan keamanan tinggi.

@@ -1,0 +1,3 @@
+Mobile Development fokus pada pembuatan aplikasi untuk smartphone dan tablet. 
+Mobile developers menggunakan platform seperti Android dan iOS dengan programming 
+languages seperti Kotlin, Swift, dan React Native.

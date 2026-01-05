@@ -1,0 +1,3 @@
+Quantum Computing menggunakan prinsip mekanika kuantum untuk melakukan komputasi. 
+Quantum computers dapat menyelesaikan masalah tertentu jauh lebih cepat dari 
+komputer klasik. Aplikasi potensial termasuk cryptography dan drug discovery.
