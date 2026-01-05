@@ -60,3 +60,12 @@ if __name__ == "__main__":
             print(f"{key}: {value}")
     else:
         print(stats)
+
+# Function wrapper untuk kemudahan import
+def load_documents(folder_path="data"):
+    """
+    Fungsi utama untuk memuat dokumen dengan lebih mudah.
+    Langsung dipanggil dari app.py tanpa perlu instantiate class.
+    """
+    manager = DatasetManager(folder_path=folder_path)
+    return manager.load_documents()
